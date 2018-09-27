@@ -1,0 +1,37 @@
+.header {
+    background-color: black;
+    color: white;
+    padding: 0.5rem .75rem;
+}
+
+.header__link {
+    color: white;
+}
+
+.nav-link--primary {
+    font-size: 1.5rem;
+    margin-bottom: .5rem;
+}
+
+.nav-link--social {
+    font-size: .5rem;
+}
+
+.nav-primary {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 2rem 0 2rem;
+}
+
+.nav-social {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 10rem 0 10rem;
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+

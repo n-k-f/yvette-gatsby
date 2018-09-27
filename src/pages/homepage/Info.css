@@ -1,0 +1,12 @@
+.info__band_photo {
+    margin: auto;
+    width: 100%
+}
+
+.info__text {
+    margin: .2rem 2rem;
+}
+
+img.info__band_photo {
+    margin: .1rem 2rem;
+}
